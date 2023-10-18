@@ -1,7 +1,7 @@
 import os
 from config import db
 from models import Person
-
+from selenium import webdriver
 PEOPLE = [
     {"fname": "Doug", "lname": "Farrell"},
     {"fname": "Kent", "lname": "Brockman"},
