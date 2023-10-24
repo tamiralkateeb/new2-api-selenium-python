@@ -1,0 +1,62 @@
+[33mcommit 0dae0abd98a2ab9c8c9cd006fe8436ac2428a97b[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/test11-lisa[m[33m, [m[1;32mfeature/test5-lisa[m[33m, [m[1;32mfeature/test10-jessica[m[33m)[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Tue Oct 24 20:01:48 2023 +0300
+
+    add the tenth commit
+
+[33mcommit 741451f5abee4cc4491224dbc03ed18999e6911c[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Tue Oct 24 19:53:04 2023 +0300
+
+    add another test5
+
+[33mcommit 37d50bc6c348dc0722994474b28de1b947c7b97b[m[33m ([m[1;32mfeature/test4-lisa[m[33m)[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Tue Oct 24 19:40:25 2023 +0300
+
+    add comment
+
+[33mcommit f0cfb80bf784b06eb44e6de0fa49deca230e1bfb[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Tue Oct 24 19:15:47 2023 +0300
+
+    add test5
+
+[33mcommit 3e7b6f6f348d2908eddbf0da0d50db1eb66f6f6e[m
+Merge: eb1f984 00e0b2a
+Author: tamiralkateeb <137404017+tamiralkateeb@users.noreply.github.com>
+Date:   Tue Oct 24 18:54:24 2023 +0300
+
+    Merge pull request #1 from tamiralkateeb/feature/test5-amend
+    
+    Feature/test5 amend
+
+[33mcommit 00e0b2a8c280c409e7eead2a13245d17b095a114[m[33m ([m[1;31morigin/feature/test5-amend[m[33m, [m[1;32mfeature/test5-amend[m[33m)[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Tue Oct 24 18:37:26 2023 +0300
+
+    add test3
+
+[33mcommit c536bc648a57e0223e99f0131bb069e73fb69a13[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Tue Oct 24 18:36:04 2023 +0300
+
+    add test2
+
+[33mcommit 539d388b76ead88b76ee348ee782083a7fdece6e[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Tue Oct 24 18:17:42 2023 +0300
+
+    add a test
+
+[33mcommit eb1f9848825eed791871cc52e468d29368adaf18[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Wed Oct 18 20:22:46 2023 +0300
+
+    Added Selenium code to the file
+
+[33mcommit ba573af1a16bb9ed65e2eef083ddc5ac3bdcbbc1[m
+Author: tamiralkateeb <tamiralkhateeb@gmai.com>
+Date:   Tue Oct 17 20:53:52 2023 +0300
+
+    Initialize the project
