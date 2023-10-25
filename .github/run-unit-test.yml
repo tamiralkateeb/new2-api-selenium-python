@@ -1,0 +1,13 @@
+name: rum unit tests of feature branches
+
+ on:
+  push:
+   "feature/"*
+
+jops:
+ run-unit-testyml:
+  runs-on: ubuntu-latest
+
+  uses: actions/checkout@v3.3.0
+  name: run unit test
+  run: mvn test
